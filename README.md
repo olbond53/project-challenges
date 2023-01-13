@@ -1,2 +1,2 @@
 # project-challenges
-## my solutions of coding challenges from freeCode Camp and others
+## my solutions of coding challenges from freeCodeCamp and others
