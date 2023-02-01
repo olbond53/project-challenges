@@ -1,8 +1,8 @@
 function factorial(num) {
-  if (num <= 1) {
+  if (num <= 2) {
     return num;
   } else {
-    return num * factorial(num - 1);
+    return BigInt(num) * factorial(BigInt(num) - BigInt(1));
   }
 }
 
